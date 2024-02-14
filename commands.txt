@@ -1,14 +1,10 @@
 git status 
 git log
-
 git add
 git commit -m "Custom Message"
 git push
-
 git clone https://github.com/Srinivas-Kethavath/Flames.git customFoldername
-
 git restore --staged filename
-
 git fetch
 git pull
 
