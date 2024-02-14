@@ -9,4 +9,8 @@ git clone https://github.com/Srinivas-Kethavath/Flames.git customFoldername
 
 git restore --staged filename
 
+git fetch
+git pull
+
+
 
