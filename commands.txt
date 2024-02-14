@@ -5,3 +5,8 @@ git add
 git commit -m "Custom Message"
 git push
 
+git clone https://github.com/Srinivas-Kethavath/Flames.git customFoldername
+
+git restore --staged filename
+
+
