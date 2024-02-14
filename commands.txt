@@ -2,3 +2,6 @@ git status
 git log
 
 git add
+git commit -m "Custom Message"
+git push
+
