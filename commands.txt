@@ -7,6 +7,9 @@ git clone https://github.com/Srinivas-Kethavath/Flames.git customFoldername
 git restore --staged filename
 git fetch
 git pull
+git diff commitID1 commitID2
+git diff shows the changes from HEAD
+HEAD is a pointer to latest commit
 
 
 
